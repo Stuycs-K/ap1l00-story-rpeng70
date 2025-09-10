@@ -17,7 +17,7 @@ The goal is to learn the edit/add/commit/push workflow and realize it isn't that
 2. Edit the `story.txt` file in the lab by replacing words as follows: Edit three times once each for nouns/verbs/adjectives then adding/committing/pushing. You should have 3 commits in the lab after this step. After all three commits your story should be complete.
    
 
-# Submit summer assignment HelloWorld here!
+# **Submit** *summer assignment* HelloWorld ~~here!~~
 
 3. [oops: The summer assignment called the file Hello.java, please rename it to HelloWorld.java, and change the class name to HelloWOrld] Copy your "HelloWorld.java" from the summer assignment to the local repository. You should have it in the cloud/email/flash-drive, so you have to save it into the correct directory (the repo folder),
    (you can drag/drop, use the cp command, or google how to achieve your task)
